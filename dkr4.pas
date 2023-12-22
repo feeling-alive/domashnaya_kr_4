@@ -15,7 +15,7 @@ var
 
 function f(xx: real): real;
 begin
-  f := 1 * xx * xx * xx + (-2) * xx * xx + (2) * xx + 17;
+  f := 1 * xx * xx * xx + (-1) * xx * xx + (-2) * xx + 15;
 end;
 
 function perv(xx: real): real;
